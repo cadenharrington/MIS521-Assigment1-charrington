@@ -1,0 +1,65 @@
+﻿body {
+    background-color: darkred;
+    background-image: url('../assets/family-guy-living-room.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    color: #ffd800;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 28px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#CoverArt {
+    border-radius: 50%;
+    width: 600px;
+    height: 337px;
+}
+
+iframe {
+    display: block;
+    margin: 15px auto;
+}
+
+#IMDBLink {
+    display: block;
+    margin-top: 15px;
+    color: red;
+    text-decoration: none;
+    font-size: 28px;
+}
+
+#IMDBLink:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+    margin: 10px 0;
+    font-size: 28px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h5 {
+    font-size: 28px;
+}
+
+p#Summary {
+    font-size: 28px;
+}
+
+#Rating {
+    margin: 10px;
+}

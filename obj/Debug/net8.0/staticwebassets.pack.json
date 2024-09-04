@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FL2024-Assignment1-charrington.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FL2024-Assignment1-charrington.props",
+      "PackagePath": "build\\FL2024-Assignment1-charrington.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FL2024-Assignment1-charrington.props",
+      "PackagePath": "buildMultiTargeting\\FL2024-Assignment1-charrington.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FL2024-Assignment1-charrington.props",
+      "PackagePath": "buildTransitive\\FL2024-Assignment1-charrington.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

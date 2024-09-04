@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "J5lpTI6YtubB28UQNa38aGLoTg7mjU5iyLd7sw8QqSQ=",
+  "Source": "FL2024-Assignment1-charrington",
+  "BasePath": "_content/FL2024-Assignment1-charrington",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FL2024-Assignment1-charrington\\wwwroot",
+      "Source": "FL2024-Assignment1-charrington",
+      "ContentRoot": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\",
+      "BasePath": "_content/FL2024-Assignment1-charrington",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\css\\styles.css",
+      "SourceId": "FL2024-Assignment1-charrington",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\",
+      "BasePath": "_content/FL2024-Assignment1-charrington",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\index.html",
+      "SourceId": "FL2024-Assignment1-charrington",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\caden\\OneDrive\\Desktop\\School\\11 Fall 2024\\MIS 521\\FL2024-Assignment1-charrington\\wwwroot\\",
+      "BasePath": "_content/FL2024-Assignment1-charrington",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
